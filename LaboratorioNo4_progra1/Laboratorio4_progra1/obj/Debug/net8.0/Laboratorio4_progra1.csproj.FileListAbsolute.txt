@@ -1,0 +1,14 @@
+C:\Programa Tony\Laboratorio4_progra1\Laboratorio4_progra1\bin\Debug\net8.0\Laboratorio4_progra1.exe
+C:\Programa Tony\Laboratorio4_progra1\Laboratorio4_progra1\bin\Debug\net8.0\Laboratorio4_progra1.deps.json
+C:\Programa Tony\Laboratorio4_progra1\Laboratorio4_progra1\bin\Debug\net8.0\Laboratorio4_progra1.runtimeconfig.json
+C:\Programa Tony\Laboratorio4_progra1\Laboratorio4_progra1\bin\Debug\net8.0\Laboratorio4_progra1.dll
+C:\Programa Tony\Laboratorio4_progra1\Laboratorio4_progra1\bin\Debug\net8.0\Laboratorio4_progra1.pdb
+C:\Programa Tony\Laboratorio4_progra1\Laboratorio4_progra1\obj\Debug\net8.0\Laboratorio4_progra1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programa Tony\Laboratorio4_progra1\Laboratorio4_progra1\obj\Debug\net8.0\Laboratorio4_progra1.AssemblyInfoInputs.cache
+C:\Programa Tony\Laboratorio4_progra1\Laboratorio4_progra1\obj\Debug\net8.0\Laboratorio4_progra1.AssemblyInfo.cs
+C:\Programa Tony\Laboratorio4_progra1\Laboratorio4_progra1\obj\Debug\net8.0\Laboratorio4_progra1.csproj.CoreCompileInputs.cache
+C:\Programa Tony\Laboratorio4_progra1\Laboratorio4_progra1\obj\Debug\net8.0\Laboratorio4_progra1.dll
+C:\Programa Tony\Laboratorio4_progra1\Laboratorio4_progra1\obj\Debug\net8.0\refint\Laboratorio4_progra1.dll
+C:\Programa Tony\Laboratorio4_progra1\Laboratorio4_progra1\obj\Debug\net8.0\Laboratorio4_progra1.pdb
+C:\Programa Tony\Laboratorio4_progra1\Laboratorio4_progra1\obj\Debug\net8.0\Laboratorio4_progra1.genruntimeconfig.cache
+C:\Programa Tony\Laboratorio4_progra1\Laboratorio4_progra1\obj\Debug\net8.0\ref\Laboratorio4_progra1.dll
